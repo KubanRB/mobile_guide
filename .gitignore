@@ -14,3 +14,21 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
+
+# Eclipse/Aptana settings
+.project
+
+# NetBeans settings
+[Nn]bproject
+
+# For Vim swap files
+*.swp
+
+# Ignore Redcar Editor settings
+.redcar
+
+# For RVM
+.rvmrc
+
+# Conflicts
+*.orig
