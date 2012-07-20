@@ -6,4 +6,3 @@
 Разрабатывается на языке [Ruby](http://www.ruby-lang.org/en/), с использованием фрэймворка [Ruby on Rails](http://rubyonrails.org/).
 
 [![Build Status](https://secure.travis-ci.org/Vovandro/mobile_guide.png?branch=master)](http://travis-ci.org/Vovandro/mobile_guide)
-
