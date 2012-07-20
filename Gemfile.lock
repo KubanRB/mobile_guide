@@ -102,5 +102,6 @@ PLATFORMS
 DEPENDENCIES
   jquery-rails
   rails (= 3.2.6)
+  rake
   rspec-rails (= 2.11.0)
   sqlite3
